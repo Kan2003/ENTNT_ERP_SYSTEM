@@ -6,9 +6,11 @@ Welcome to the React Admin Dashboard built for the assessment of ENTNT organizat
 
 ## Functionality
 
-✨ Add, remove, and update orders.
-✨ Four pages: Home, Products, Orders, and Calendar.
-✨ Home page includes charts and a fully responsive UI.
+✨ Add, remove, and update Products.  
+✨ Four pages: Home, Products, Orders, and Calendar.  
+✨ Home page includes charts and a fully responsive UI.   
+✨ Fully Responsive Design.   
+✨ Used Less storage and fast reloading. 
 
 ## Technology Stack
 
