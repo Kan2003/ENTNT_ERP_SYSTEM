@@ -1,0 +1,15 @@
+.calendar-main {
+    // background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    .calendar {
+        width: 24rem;
+        background-color: rgb(255, 255, 255);
+        color: black;
+        padding: 1rem;
+        border-radius: 1rem;
+    }
+}

@@ -13,7 +13,7 @@ import "./styles/global.scss"
 import Orders from "./pages/orders/Orders";
 import Create from "./Create";
 import Update from "./Update";
-import CalendarView from "./pages/calender/CalenderView";
+import Calendar from "./pages/calendar/Calendar";
 
 
 
@@ -59,8 +59,8 @@ function App() {
         element : <Create/>
         },
         {
-        path:"calender",
-        element : <CalendarView orders={[]}/>
+        path:"calendar",
+        element : <Calendar/>
         },
         {
         path:"edit/:id",

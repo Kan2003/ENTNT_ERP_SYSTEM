@@ -19,6 +19,10 @@ const Menu = () => {
           <img src="/order.svg" alt="" />
           <p>Orders</p>
         </Link>
+        <Link to='/calendar' className="listItem">
+          <img src="/calendar.svg" alt="" />
+          <p>Calendar</p>
+        </Link>
       </div>
     </div>
   )
