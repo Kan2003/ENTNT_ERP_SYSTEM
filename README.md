@@ -1,6 +1,6 @@
 # React Admin Dashboard
 
-🚀 ![Dashboard Preview](https://photos.google.com/photo/AF1QipOJWSQD_JJCNuqlHbb7qsQpzVfoDr-3X1rkMZ6V)
+
 
 Welcome to the React Admin Dashboard built for the assessment of ENTNT organization. To access it, download the zip file and extract it on your desktop. Then run `npm run dev` in the terminal to start the project.
 
@@ -33,3 +33,33 @@ Welcome to the React Admin Dashboard built for the assessment of ENTNT organizat
 4. Run the project:
     ```bash
     npm run dev
+
+## 🚀 Dashboard
+![Screenshot (209)](https://github.com/Kan2003/ENTNT_ERP_SYSTEM/assets/122142009/04f3bff6-f3e4-4276-9daf-d777c30106f9)
+
+here is the UI of Dashborad . in this i added charts to make a better user Experience.  
+
+
+## Product Page
+
+![Screenshot (210)](https://github.com/Kan2003/ENTNT_ERP_SYSTEM/assets/122142009/2ad4f02f-e46e-4b33-9e79-aeeea8c23296)
+In Prodcuct page i add functionality to create , update and delete product.
+
+## Order Page
+![Screenshot (211)](https://github.com/Kan2003/ENTNT_ERP_SYSTEM/assets/122142009/d0b1dffb-5ba5-42e7-8269-c086bd140a82)  
+
+
+## Calendar Page
+![Screenshot (212)](https://github.com/Kan2003/ENTNT_ERP_SYSTEM/assets/122142009/841e95d5-777c-4cdd-8428-544702b7ca91)
+
+
+## Responsive Design
+
+
+
+
+
+https://github.com/Kan2003/ENTNT_ERP_SYSTEM/assets/122142009/1deb1ac4-019b-4822-934c-c422acdc388f  
+
+😊Thankyou so much for giving me this Opportunity !!!!!!
+
