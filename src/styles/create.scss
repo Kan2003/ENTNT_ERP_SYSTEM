@@ -1,0 +1,76 @@
+@import "../styles/responsive.scss";
+
+.new {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+    display: inline-block;
+    padding: 50px;
+    width: 400px;
+    margin: 50px 25vw;
+    border-radius: 20px;
+
+    @include xl{
+        margin: 50px 20vw;
+    }
+    @include lg{
+        margin: 50px 15vw;
+    }
+    @include md{
+        width: 270px;
+        padding: 30px;
+        margin: 50px 9vw;
+    }
+    @include sm{
+        width: 240px;
+        padding: 30px;
+        margin: 50px 12vw;
+    }
+
+    .title {
+        display: flex;
+        // align-items: center;
+        justify-content: space-between;
+        cursor: pointer;
+        .cross{
+            font-size: 20px;
+            color: black;
+        }
+    }
+
+    h2{
+        color: black;
+        margin-bottom: 20px;
+        @include md{
+            font-size: 17px;
+        }
+    }
+
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 0px;
+        input {
+            width: 100%;
+            padding: 10px;
+            border-radius: 10px;
+            border: 1px solid burlywood;
+        }
+        .select {
+            margin-bottom: 15px;
+            border-radius: 10px;
+            color: black;
+            background-color: antiquewhite;
+        }
+
+        button{
+            padding: 10px;
+            border-radius: 10px;
+            background-color: rgba(0, 0, 0, 0.781);
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+    }
+}
